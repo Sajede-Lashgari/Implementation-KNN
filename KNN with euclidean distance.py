@@ -290,14 +290,6 @@ plt.ylabel("Training error")
 plt.title('Training error')
 
 # 2019 Oct
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
